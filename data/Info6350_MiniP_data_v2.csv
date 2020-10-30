@@ -1,0 +1,133 @@
+owner,check_1,check_2,filename,title,author_surname,author_givenname,year,birth_year,genre,form,country,wordcount,language,pov,gender,horror,detective,adaptation,downloads,source_url,age,dScience
+ks2373,aj445,jw2295,Little_Women_Alcott.txt,Little Women,Alcott,Louisa May,1868,1832,"comedy, children's literature",novel,us,186062,en,third,female,0,0,1,11573,http://www.gutenberg.org/cache/epub/514/pg514.txt,36,0
+jh976,sml347,jcm497,The_Great_God_Pan.txt,The Great God Pan,Arthur,Machen,1894,1863,Horror,novella,uk,21639,en,third,male,1,0,1,1061,http://www.gutenberg.org/cache/epub/389/pg389.txt,31,0
+jz543,asc334,aml449,The_Lost_Kafoozalum.txt,The Lost Kafoozalum,Ashwell,Pauline,1960,1928,Science Fiction,novel,gb,22170,en,first,female,0,0,0,41,http://www.gutenberg.org/ebooks/30427,32,1
+yw458,sml347,me363,mansfield_park.txt,Mansfield Park,Austen,Jane,1814,1775,"romance, historical",novel,gb,159526,en,third,female,0,0,1,3613,http://www.gutenberg.org/ebooks/141,39,0
+kjk248,ay329,jcm497,pride_and_prejudice.txt,Pride and Prejudice,Austen,Jane,1813,1775,"fiction, romance",novel,us,121609,en,third,female,0,0,1,66796,http://www.gutenberg.org/ebooks/1342,38,0
+rb725,cf446,,NORTHANGER_ABBEY.txt,NORTHANGER ABBEY,AUSTEN,JANE,1817,1775,HORROR,novel,us,70464,en,third,female,1,0,1,5170,http://www.gutenberg.org/ebooks/121,42,0
+xw235,pem94,swt53,emma.txt,Emma,Austen,Jane,1815,1775,"romance, fiction",novel,uk,160463,en,third,female,0,0,1,10739,http://www.gutenberg.org/ebooks/158,40,0
+rrs232,sml347,xw235,persuasion.txt,Persuasion,Austen,Jane,1818,1775,"Romance, fiction",novel,gb,83361,en,third,female,0,0,1,3920,http://www.gutenberg.org/ebooks/105,43,0
+djs488,aj445,,Sense_and_Sensibility.txt,Sense and Sensibility,Austen,Jane,1811,1775,"romance, fiction",novel,gb,119394,en,third,female,0,0,1,5883,http://www.gutenberg.org/ebooks/161,36,0
+db758,ks2373,yw458,Wonderful_Wizard_Oz_Baum.txt,The Wonderful Wizard of Oz,Baum,L. Frank,1900,1856,"fantasy, children's novel",novel,us,42006,en,third,male,0,0,1,9299,http://www.gutenberg.org/ebooks/55,44,0
+vi35,em682,kjk248,Uncle_Toms_Cabin_BeecherStowe.txt,Uncle Tom's Cabin,Beecher-Stowe,Harriet,1852,1811,fiction,novel,us,180242,en,third,female,0,0,0,11934,https://www.gutenberg.org/ebooks/203,41,0
+djr288,jmy53,hs932,blackwood_damned.txt,The Damned,Blackwood,Algernon,1914,1869,horror,novel,uk,31416,en,first,male,1,0,0,136,http://www.gutenberg.org/ebooks/11074,45,0
+sw585,asc334,tp294,four_weird_tales.txt,Four Weird Tales,Blackwood,Algernon,1912,1869,horror,short stories,uk,55013,en,third,male,1,0,0,305,http://www.gutenberg.org/ebooks/16726,43,0
+xw568,sjm382,ks783,a_sweet_little_maid.txt,A Sweet Little Maid,Blanchard,Amy Ella,1899,1854,Juvenile Fiction,novel,us,37526,en,third,female,0,0,0,13,https://www.gutenberg.org/ebooks/19025,45,0
+ay329,xw568,em682,black_amazon_of_mars.txt,Black amazon of mars,Brackett,Leigh,1951,1915,science fiction,novel,us,23919,en,third,female,0,0,0,171,http://www.gutenberg.org/ebooks/32664,36,1
+ks783,ar699,swt53,The_Door_Through_Space.txt,The Door Through Space,Bradley,Marion Zimmer,1961,1930,science fiction,novel,us,41563,en,first,female,0,0,0,214,http://www.gutenberg.org/ebooks/19726,31,1
+aml449,kjh233,,The_Planet_Savers.txt,The Planet Savers,Bradley,Marion Zimmer,1962,1930,Science Fiction,novel,us,26738,en,first,female,0,0,0,131,http://www.gutenberg.org/cache/epub/31619/pg31619.txt,32,1
+az346,xw568,aja267,Jane_Eyre_Bronte.txt,Jane Eyre,Bronte,Charlotte,1847,1816,"romance, historical",novel,gb,187479,en,first,female,0,0,1,18110,http://www.gutenberg.org/ebooks/1260,31,0
+em682,db758,swt53,wuthering_heights_bronte.txt,Wuthering Heights,Bronte,Emily,1847,1818,"gothic, romance, history",novel,gb,115902,en,first,female,0,0,1,9002,http://www.gutenberg.org/ebooks/768,29,0
+lgl47,jmh527,vi35,alice_in_wonderland.txt,Alice's Adventures in Wonderland,Carroll,Lewis,1865,1832,"fantasy fiction, absurdist fiction",novel,gb,26432,en,third,male,0,0,1,39839,http://www.gutenberg.org/ebooks/28885,33,0
+as2778,aml449,pem94,king_in_yellow.txt,The King in Yellow,Chambers,Robert,1895,1865,"horror, fantasy, fiction",short stories,us,71535,en,third,male,1,0,0,3431,http://www.gutenberg.org/ebooks/8492,30,0
+az346,aja267,xw568,The_Man_In_The_Brown_Suit_Christie.txt,The Man in the Brown Suit,Christie,Agatha,1924,1890,"detective, thriller",novel,gb,76096,en,first,female,0,1,1,1840,http://www.gutenberg.org/ebooks/61168,34,0
+cf446,ks2373,az346,The_Mysterious_Affair_at_Styles_Christie.txt,The Mysterious Affair at Styles,Christie,Agatha,1921,1890,detective,novel,us,73805,en,first,female,0,1,0,6050,https://www.gutenberg.org/ebooks/863,31,0
+sml437,yz549,,the_secret_adversary_agatha_christie.txt,The Secret Adversary,Christie,Agatha,1922,1890,detective fiction,novel,gb,75127,en,third,female,0,1,0,1918,http://www.gutenberg.org/ebooks/1155,32,0
+ejs336,sjm382,rb725,poirot_investigates.txt,Poirot Investigates,Christie,Agatha,1924,1890,detective fiction,short stories,gb,52498,en,first,female,0,1,1,3249,http://www.gutenberg.org/ebooks/61262,34,0
+sjm382,lgl47,swt53,the_murder_on_the_links_christie.txt,The Murder on the Links,Christie,Agatha,1923,1890,detective fiction,novel,gb,64463,en,first,female,0,1,1,2626,http://www.gutenberg.org/ebooks/58866,33,0
+jl3358,,,and_then_there_were_none.txt,And Then There Were None,Christie,Agatha,1939,1890,"Horror, thriller, mystery",novel,gb,53921,en,third,female,1,1,1,,https://archive.org/stream/AndThenThereWereNone_726/AndThenThereWereNone_djvu.txt,49,0
+tp294,cjw322,,at_fault.txt,At Fault,Chopin,Kate,1890,1850,"romance, psychological fiction",novel,us,57461,en,third,female,0,0,0,114,http://www.gutenberg.org/ebooks/23810,40,0
+hh695,sa2233,awi3,the_moonstone.txt,The Moonstone,Collins,Wilkie,1868,1824,"Detective, mystery fiction, romance",novel,gb,195129,en,first,male,0,1,1,2706,http://www.gutenberg.org/ebooks/155,44,0
+byw4,cjw322,,what_katy_did.txt,What Katy Did,Coolidge,Susan,1872,1835,Juvenile Fiction,novel,us,50821,en,first,female,0,0,0,252,http://www.gutenberg.org/ebooks/8994,37,0
+cst68,mhg86,,a_tale_of_two_cities.txt,A Tale of Two Cities,Dickens,Charles,1859,1812,Historical Fiction,novel,gb,139252,en,third,male,0,0,1,24148,http://www.gutenberg.org/ebooks/98,47,0
+pem94,ar699,lgl47,oliver_twist.txt,Oliver Twist,Dickens,Charles,1838,1812,fiction,novel,gb,157247,en,third,male,0,0,1,6525,http://www.gutenberg.org/ebooks/730,26,0
+jjh275,az346,ejs336,summit_house_mystery.txt,The Summit House Mystery,Dougall,Lily,1905,1858,"Detective, mystery fiction",novel,us,65088,en,third,female,0,1,0,30,https://www.gutenberg.org/ebooks/55189,47,0
+ks783,ar699,vi35,The_Adventures_Sherlock_Holmes.txt,The Adventures of Sherlock Holmes,Doyle,Arthur Conan,1892,1859,"detective, mystery fiction",novel,gb,104453,en,first,male,0,1,1,25002,http://www.gutenberg.org/ebooks/1661,33,0
+ar699,sml347,jmh527,Hound_Of_The_Baskervilles.txt,The Hound of the Baskervilles,Doyle,Arthur Conan,1902,1859,"mystery, fiction",novel,gb,59141,en,first,male,0,1,1,12472,http://www.gutenberg.org/files/2852/2852-0.txt,43,0
+at544,goo5,yy545,doyle_valley_of_fear.txt,The Valley of Fear,Doyle,Arthur Conan,1915,1859,Mystery,novel,gb,57721,en,first,male,0,1,1,1933,http://gutenberg.org/files/3289/3289-0.txt,56,0
+yy545,jmy53,,his_last_bow.txt,His Last Bow,Doyle,Arthur Conan,1917,1859,Detective fiction,novel,gb,59406,en,first,male,0,1,1,931,https://www.gutenberg.org/ebooks/2350,58,0
+jz543,,,Tales_of_Terror_and_Mystery.txt,Tales of Terror and Mystery,Doyle,Arthur Conon,1922,1859,Horror,novel,gb,78069,en,third,male,1,0,0,884,http://www.gutenberg.org/ebooks/537,63,0
+gmv34,jh976,,Monte_Cristo.txt,The Count of Monte Cristo,Dumas,Alexandre,1844,1802,science fiction,novel,fr,464234,en,third,male,0,0,1,11093,http://www.gutenberg.org/ebooks/1184,42,1
+bp322,aml449,,The-Lost-Stradivarius.txt,The Lost Stradivarious,Falkner,John Meade,1895,1858,"Horror, Fiction,",novel,gb,49679,en,first,male,1,0,0,173,https://www.gutenberg.org/ebooks/14107,37,0
+jl3358,sw585,irf27,the_great_gatsby.txt,The Great Gatsby,Fitzgerald,F Scott,1925,1896,Tragedy,novel,us,48410,en,first,male,0,0,1,,http://gutenberg.net.au/ebooks02/0200041h.html,29,0
+ads289,mhg86,smh367,the_red_thumb_mark-r_austin_freeman.txt,The Red Thumb Mark,Freeman,Richard Austin,1907,1862,Detective Fiction,novel,uk,70308,en,first,male,0,1,0,110,http://www.gutenberg.org/ebooks/11128,45,0
+aj445,jw2295,tcc78,Dead_Mens_Money.txt,Dead Men's Money,Fletcher,Joseph Smith,1920,1863,"detective, mystery",novel,gb,75119,en,first,male,0,1,0,113,http://www.gutenberg.org/ebooks/12239,57,0
+ds895,jl3358,djs488,within_an_inch_of_his_life.txt,Within an Inch of His Life,Gaboriau,Emile,1874,1832,"Detective, mystery",novel,fr,163976,en,third,male,0,1,0,39,http://www.gutenberg.org/ebooks/3336,42,0
+jw2295,tcc78,me363,herland.txt,Herland,Gilman,Charlotte Perkins,1915,1860,"science fiction, utopia, feminist",novel,us,52139,en,first,female,0,0,0,1891,http://www.gutenberg.org/ebooks/32,55,1
+kjk248,vi35,ay329,a_strange_disapperance.txt,A Strange Disapperance,Green,Anna Katharine,1880,1846,"fiction, detective, mystery",novel,us,51305,en,first,female,0,1,0,212,http://www.gutenberg.org/ebooks/1167,34,0
+pem94,ar699,lgl47,the_leavenworth_case.txt,The Leavenworth Case,Green,Anna Katharine,1878,1846,detective,novel,us,111113,en,first,female,0,1,1,542,http://www.gutenberg.org/ebooks/4047,32,0
+lgl47,,,that_affair_next_door.txt,That Affair Next Door,Green,Anna Katharine,1897,1846,detective fiction,novel,us,104438,en,first,female,0,1,0,90,http://www.gutenberg.org/ebooks/4047,51,0
+hs932,jl3358,djs488,G-Green-Forsaken-1890_ed.txt,The Forsaken Inn,Green,Anna Katharine,1890,1846,Detective and mystery stories,novel,us,62461,en,first,female,0,1,0,128,http://www.gutenberg.org/ebooks/23641,44,0
+irf27,byw4,,the_circular_study.txt,The Circular Study,Green,Anna Katharine,1900,1846,Detective,novel,us,56542,en,third,female,0,1,0,73,http://www.gutenberg.org/ebooks/18761,54,0
+aja267,db758,,the_mystery_of_the_hasty_arrow.txt,The Mystery of the Hasty Arrow,Green,Anna Katharine,1917,1846,detective fiction,novel,us,92992,en,first,female,0,1,0,124,http://www.gutenberg.org/ebooks/17763,71,0
+hjg43,,,the_passenger_from_calais.txt,The Passenger from Calais,Griffiths,Arthur,1905,1838,detective fiction,novel,uk,53265,en,first,male,0,1,0,57,http://www.gutenberg.org/ebooks/16339,67,0
+kdh62,xw235,jh976,the_ivory_child.txt,The Ivory Child,Haggard,Henry,1916,1856,"fantasy, fiction",novel,gb,112019,en,first,male,0,0,0,112,http://www.gutenberg.org/ebooks/2841,60,0
+goo5,jz669,,minnie_sacrifice.txt,Minnie's Sacrifice,Harper,Frances,1869,1825,Literary Fiction,novel,us,30105,en,third,female,0,0,0,79,http://www.gutenberg.org/ebooks/11053,44,0
+awi3,,,boats_of_the_glen_carrig.txt,"The Boats of the ""Glen Carrig""",Hodgson,William Hope,1907,1877,"Horror Fiction, Science Fiction",novel,gb,60065,en,first,male,1,0,0,194,http://www.gutenberg.org/ebooks/10542,30,1
+rrs232,yw458,xw235,house_on_borderland.txt,The House on the Borderland,Hodgson,William Hope,1908,1877,"Horror Fiction, Science Fiction, and Fantasy Fiction",novel,us,51013,en,first,male,1,0,0,731,http://www.gutenberg.org/ebooks/10002,31,1
+xw235,pem94,qh75,the_night_land.txt,The Night Land,Hodgson,William Hope,1912,1877,"Horror Fiction, Science Fiction",novel,uk,197003,en,first,male,1,0,0,656,http://www.gutenberg.org/ebooks/10662,35,1
+byw4,krh57,cjw322,the_ghost_pirates.txt,The Ghost Pirates,Hodgson,William Hope,1909,1877,"Horror Fiction, Science Fiction, and Fantasy Fiction",novel,gb,48978,en,first,male,1,0,0,145,http://www.gutenberg.org/ebooks/10966,32,1
+djr288,jmy53,jz669,holley_around_the_world.txt,Around the World with Josiah Allen's Wife,Holley,Marietta,1905,1836,"humor, political fiction",novel,us,161004,en,first,female,0,0,0,24,http://www.gutenberg.org/ebooks/30190,69,0
+ds895,beg57,,white_rose_of_langley.txt,The White Rose of Langley,Holt,Emily Sarah,1875,1836,Literary Fiction,novel,gb,91651,en,third,female,0,0,0,20,http://www.gutenberg.org/ebooks/23276,39,0
+me363,sa2233,smh367,Life_Blood.txt,Life Blood,Hoover,Thomas,2000,1941,"Horror, Thriller, Suspense, Medical Thriller",novel,us,105579,en,first,male,1,0,0,72,http://www.gutenberg.org/ebooks/34318,59,0
+vi35,kjk248,djr288,Turn_Of_The_Screw_James.txt,The Turn of the Screw,James,Henry,1898,1843,horror,novella,gb,42211,en,first,male,1,0,0,18064,https://www.gutenberg.org/ebooks/209,55,0
+jmy53,,,a_thin_ghost_and_others.txt,A Thin Ghost and Others,James,Montague,1919,1862,horror,short stories,gb,30937,en,first,male,1,0,0,207,http://www.gutenberg.org/ebooks/20387,57,0
+jcm497,at544,ds895,8486.txt.utf-8.txt,Ghost Stories of an Antiquary,James,Montague,1904,1862,horror,novel,gb,45267,en,third,male,1,0,0,924,http://www.gutenberg.org/ebooks/8486,42,0
+tcc78,kjk248,ks783,the_country_of_the_pointed_firs.txt,The Country of the Pointed Firs,Jewett,Sarah Orne,1896,1849,"fiction, pastoral",novel,us,43916,en,first,female,0,0,0,563,http://www.gutenberg.org/ebooks/367,47,0
+sml437,beg57,jz669,the_metamorphosis_franz_kafka.txt,The Metamorphosis,Kafka,Franz,1915,1883,"fiction, horror, absurdism",novella,cz,22010,de,third,male,1,0,0,24571,http://www.gutenberg.org/ebooks/5200,32,0
+rb725,cf446,,JUNGLE_BOOK.txt,THE JUNGLE BOOK,KIPLING,RUDYARD,1894,1865,FICTION,novel,us,54155,en,first,male,0,0,1,1129,http://www.gutenberg.org/ebooks/35997,29,0
+hh695,sa2233,awi3,Mizora_A_Prophecy.txt,Mizora: A Prophecy,Lane,Mary E. Bradley,1890,1844,"Science fiction, feminist fiction, utopian fiction",novel,us,53945,en,first,female,0,0,0,69,http://www.gutenberg.org/ebooks/24750,46,1
+em682,db758,yz549,The_Monk_Lewis,The Monk: A Romance,Lewis,Matthew Gregory,1796,1775,"Gothic, horror",novel,gb,136836,en,third,male,1,0,1,1375,http://www.gutenberg.org/ebooks/601,21,0
+bp322,krh57,,The-Hemlock-Avenue-Mystery.txt,The Hemlock Avenue Mystery,Long,Lily,1907,1862,"Mystery, Fiction",novel,us,59237,en,third,female,0,0,0,11,https://www.gutenberg.org/ebooks/56780,45,0
+jh976,aml449,rb725,The_Colors_of_Space.txt,The Colors of Space,Marion,Bradley,1963,1930,Science Fiction,novella,us,44814,en,third,female,0,0,0,196,http://www.gutenberg.org/cache/epub/20796/pg20796.txt,33,1
+cf446,ks2373,az346,Moby_Dick_Melville.txt,"Moby Dick; Or, The Whale",Melville,Herman,1851,1819,adventure,novel,us,209117,en,first,male,0,0,0,22631,https://www.gutenberg.org/ebooks/2701,32,0
+ar699,aj445,yw458,Anne_of_Green_Gables.txt,Anne of Green Gables,Montgomery,Lucy Maud,1908,1874,"novel, fiction, children's literature, bildungsroman",novel,ca,102277,en,third,female,0,0,1,10253,http://www.gutenberg.org/files/45/45-0.txt,34,0
+hjg43,aj445,,the_defiant_agents.txt,The Defiant Agents,Norton,Andre,1962,1912,Science Fiction,novel,us,57292,en,third,female,0,0,0,115,http://www.gutenberg.org/ebooks/25550,50,1
+aj445,jw2295,jjh275,Plague_Ship.txt,Plague Ship,Norton,Andre,1956,1912,science fiction,novel,us,60020,en,third,female,0,0,0,204,http://www.gutenberg.org/ebooks/16921,44,1
+me363,sa2233,smh367,Star_Born.txt,Star Born,Norton,Andre,1957,1912,Science Fiction,novel,us,62762,en,third,female,0,0,0,190,http://www.gutenberg.org/ebooks/18458,45,1
+jmh527,kjh233,hh695,star_hunter.txt,Star Hunter,Norton,Andre,1961,1912,science fiction,novel,us,33649,en,third,female,0,0,0,133,http://www.gutenberg.org/ebooks/19090,49,1
+qh75,hjg43,gmv34,storm_over_warlock.txt,Storm Over Warlock,Norton,Andre,1960,1912,science fiction,novel,us,62057,en,third,female,0,0,0,117,http://www.gutenberg.org/cache/epub/20788/pg20788.txt,48,1
+jcm497,at544,ds895,19651.txt.utf-8.txt,Key out of Time,Norton,Andre,1963,1912,Science Fiction,novel,us,56862,en,third,female,0,0,0,162,http://www.gutenberg.org/ebooks/19651,51,1
+at544,,,norton_all_cats_are_gray.txt,All Cats Are Gray,Norton,Andre,1953,1912,Science Fiction,novel,us,2764,en,first,female,0,0,0,387,http://gutenberg.org/cache/epub/29019/pg29019.txt,41,1
+sa2233,rb725,sw585,The_Time_Traders.txt,The Time Traders,Norton,Andre,1958,1912,Science fiction,novel,us,63953,en,third,female,0,0,0,191,https://dev.gutenberg.org/ebooks/19145,46,1
+sw585,ads289,,voodoo_planet.txt,Voodoo Planet,Norton,Andre,1959,1912,Science Fiction,novel,us,23853,en,third,female,0,0,0,106,http://www.gutenberg.org/ebooks/18846,47,1
+aja267,db758,kdh62,widdershins.txt,Widdershins,Onions,Oliver,1911,1873,horror,novel,gb,78324,en,third,male,1,0,0,129,https://www.gutenberg.org/ebooks/14168,38,0
+ejs336,sjm382,hs932,the_blue_star.txt,The Blue Star,Pratt,Fletcher,1952,1897,science fiction,novel,us,88035,en,third,male,0,0,0,130,http://www.gutenberg.org/ebooks/56889,55,1
+swt53,ads289,,The_Mysteries_of_Udolpho.txt,The Mysteries of Udolpho,Radcliffe,Ann,1794,1764,"horror, gothic",novel,gb,184000,en,first,female,1,0,0,1581,http://www.gutenberg.org/ebooks/3268,30,0
+as2778,pem94,yy545,anthem.txt,Anthem,Rand,Ayn,1938,1905,"science fiction, psychological fiction, romance",novel,us,19124,en,first,female,0,0,0,36951,http://www.gutenberg.org/ebooks/1250,33,1
+jz669,hjg43,,the_moon_rock.txt,The Moon Rock,Rees,Arthur J.,1922,1872,"detective fiction, mystery",novel,au,107505,en,third,male,0,1,0,52,http://www.gutenberg.org/ebooks/12509,50,0
+jz669,hjg43,sw585,the_uninhabited_house.txt,The Uninhabited House,Riddle,Mrs. J. H. (Charlotte),1875,1832,"fiction, horror",novel,gb,52446,en,third,female,1,0,0,71,http://www.gutenberg.org/ebooks/8602,43,0
+kdh62,xw235,djr288,the_circular_staircase.txt,The Circular Staircase,Rinehart,Mary,1908,1876,"mystery, fiction",novel,us,69761,en,first,female,0,1,0,344,http://www.gutenberg.org/ebooks/434,32,0
+jmy53,beg57,hh695,whose_body.txt,Whose Body? A Lord Peter Wimsey Nove,Sayers,Dorothy Leigh,1923,1893,detective fiction,novel,gb,58289,en,third,female,0,1,0,726,http://www.gutenberg.org/ebooks/58820,30,0
+db758,ks2373,yw458,Frankenstein_Shelley.txt,"Frankenstein; Or, The Modern Prometheus",Shelley,Mary Wollstonecraft,1818,1797,"Gothic novel, horror fiction, science fiction",novel,uk,72645,en,first,female,1,0,1,43683,http://www.gutenberg.org/ebooks/84,21,1
+smh367,krh57,,Mathilda.txt,Mathilda,Shelley,Mary Wollstonecraft,1819,1797,fiction,novel,uk,33404,en,first,female,0,0,0,514,http://www.gutenberg.org/ebooks/15238,22,0
+kjh233,ay329,aja267,the_last_man.txt,The Last Man,Shelley,Mary Wollstonecraft,1826,1797,"science fiction, apocalyptic fiction",novel,uk,174432,en,first,female,1,0,1,1218,http://www.gutenberg.org/ebooks/18247,29,1
+jw2295,me363,at544,carmilla.txt,Carmilla,Sheridan Le Fanu,Joseph,1871,1814,"horror, gothic",novella,uk,27910,en,first,male,1,0,0,5019,http://www.gutenberg.org/ebooks/10007,57,0
+sjm382,lgl47,at544,the_jungle_sinclair.txt,The Jungle,Sinclair,Upton,1906,1878,political fiction,novel,us,149113,en,third,male,0,0,1,9044,http://www.gutenberg.org/ebooks/140,28,0
+ijg24,,,heidijohannaspyri.txt,Heidi,Spyri,Johanna,1880,1827,fiction,novel,ch,50307,en,third,female,0,0,1,1485,http://www.gutenberg.org/cache/epub/20781/pg20781.txt,53,0
+kjh233,ay329,aja267,strange_case_of_drjekyll_and_drhyde.txt,The Strange Case of Dr. Jekyll and Mr. Hyde,Stevenson,Robert Louis,1886,1850,"science fiction,horror",novel,us,27622,en,third,male,1,0,1,24212,http://www.gutenberg.org/ebooks/43,36,1
+swt53,goo5,hh695,Treasure_Island.txt,Treasure Island,Stevenson,Robert Louis,1883,1850,Adventure Fiction,novel,gb,60465,en,first,male,0,0,0,14046,http://www.gutenberg.org/ebooks/120,33,0
+tcc78,kjk248,ks783,the_lair_of_the_white_worm.txt,The Lair of the White Worm,Stoker,Bram,1911,1847,"horror, gothic",novel,gb,56330,en,third,male,1,0,1,306,http://www.gutenberg.org/ebooks/1188,64,0
+xw568,sjm382,ks783,the_jewel_of_seven_stars.txt,The Jewel of Seven Stars,Stoker,Bram,1903,1847,"Horror, Fiction",novel,uk,89793,en,first,male,1,0,1,238,https://www.gutenberg.org/ebooks/3781,56,0
+ks2373,jw2295,rrs232,Dracula_Stoker.txt,Dracula,Stoker,Bram,1897,1847,"Horror, epistolary, gothic",novel,gb,161771,en,first,male,1,0,1,20335,http://www.gutenberg.org/cache/epub/345/pg345.txt,50,0
+yw458,me363,kdh62,lady_of_the_shroud.txt,The Lady of the Shroud,Stoker,Bram,1909,1847,"Horror, epistolary",novel,gb,130591,en,first,male,1,0,0,168,http://www.gutenberg.org/ebooks/3095,62,0
+sa2233,rb725,cst68,The_Man.txt,The Man,Stoker,Bram,1905,1847,"Horror, gothic, romance",novel,gb,112112,en,first,male,1,0,0,107,https://dev.gutenberg.org/ebooks/2520,58,0
+hs932,rrs232,aca76,T-Twain-Adventures-1876_ed.txt,The Adventures of Tom Sawyer,Twain,Mark,1876,1835,"Bildungsroman, picaresque novel",novel,us,70770,en,third,male,0,0,0,18105,http://www.gutenberg.org/ebooks/74,41,0
+aml449,rb725,kjh233,Tom_Sawyer_Detective.txt,"Tom Sawyer, Detective",Twain,Mark,1896,1835,"Detective, mystery",novel,us,23029,en,first,male,0,1,1,174,http://www.gutenberg.org/files/93/93-0.txt,61,0
+ay329,xw568,jjh275,the_clue_of_the_twist_candle.txt,The Clue of the Twisted Candle,Wallace,Edgar,1918,1875,"Detective, mystery",novel,gb,57796,en,third,male,0,1,1,182,https://dev.gutenberg.org/ebooks/2688,43,0
+qh75,hjg43,gmv34,the_angel_of_terror.txt,The Angel of Terror,Wallace,Edgar,1922,1875,"detective, mystery",novel,gb,62982,en,third,male,0,1,1,175,http://www.gutenberg.org/cache/epub/21530/pg21530.txt,47,0
+tp294,cjw322,,the_dark_other.txt,The Dark Other,Weinbaum,Stanley,1950,1902,horror,novel,us,49983,en,third,male,1,0,0,85,http://www.gutenberg.org/ebooks/50561,48,0
+yz549,gmv34,,the_clue_of_the_gold_coin,The Clue of the Gold Coin,Wells,Helen,1958,1910,"Detective, mystery",novel,us,37070,en,third,female,0,1,0,37,http://www.gutenberg.org/ebooks/57100,48,0
+jjh275,az346,rb725,war_of_the_worlds.txt,The War of the Worlds,Wells,Herbert George,1898,1866,Science fiction,novel,us,59867,en,first,male,0,0,1,9240,https://www.gutenberg.org/ebooks/36,32,1
+yz549,gmv34,jz543,the_island_of_doctor_moreau.txt,The Island of Doctor Moreau,Wells,Herbert George,1896,1866,Science Fiction,novel,gb,43611,en,first,male,0,0,1,3186,http://www.gutenberg.org/ebooks/159,30,1
+awi3,jz543,tp294,jack_the_fire_dog.txt,Jack the Fire Dog,Wesselhoeft,Lily F.,1903,1840,Fiction,novel,us,48469,en,third,female,0,0,0,11,http://www.gutenberg.org/ebooks/48861,63,0
+mw966,maa343,lm638,A-Wharton-Age_Innocence-1920-F.txt,The Age of Innocence,Wharton,Edith,1920,1862,"romance, satire, literature",novel,us,101254,en,third,female,0,0,0,,,58,0
+yy545,aca76,jmy53,house_of_mirth.txt,The House of Mirth,Wharton,Edith,1905,1862,Fiction,novel,us,130511,en,third,female,0,0,1,2066,https://www.gutenberg.org/ebooks/284,43,0
+kaz44,yz549,,varney_the_vampire.txt,Varney the Vampire,Prest,Thomas Peckett,1845,1810,"Fiction,Horror",novel,gb,667000,en,third,male,1,0,0,915,http://www.gutenberg.org/ebooks/14833,35,0
+aca76,beg57,hh695,house_of_vampire.txt,The House of the Vampire,Viereck,George Sylvester,1907,1884,"Fiction, Horror, Fantasy",novel,us,26828,en,third,male,1,0,0,138,http://www.gutenberg.org/ebooks/17144,23,0
+aca76,bp322,kaz44,ethan_frome.txt,Ethan Frome,Wharton,Edith,1911,1862,"Fiction, Horror, Fantasy, Domestic",novel,us,34707,en,third,female,1,0,1,6063,http://www.gutenberg.org/ebooks/4517,49,0
+beg57,bp322,kaz44,TheirEyesWereWatchingGod-HurstonZoraNeale .txt,Their Eyes Were Watching God,Hurston,Zora Neale,1937,1891,Fiction,novel,us,75952,en,third,female,0,0,1,,https://b-ok.cc/book/1622725/36332e,46,0
+beg57,ijg24,,TheMist-KingStephen.txt,The Mist,King,Stephen,1980,1947,"Fiction, Psychological Horror",novel,us,61568,en,first,male,1,0,1,,https://b-ok.cc/book/1661874/f52256,33,0
+kaz44,yz549,cst68,my_antonia.txt,My Antonia,Cathers,Willa,1918,1873,"Fiction, Historical Fiction",novel,us,81262,en,first,female,0,0,1,2577,http://www.gutenberg.org/ebooks/242,45,0
+ads289,mhg86,smh367,Yonge-Fearless.txt,The Little Duke: Richard the Fearless,Yonge,Charlotte M.,1864,1823,Historical Fiction,novel,us,40805,en,third,male,0,0,0,262,http://www.gutenberg.org/ebooks/3048,41,0
+mhg86,awi3,,trents-last-case.txt,Trent's Last Case: The Woman in Black,Bentley,Edmund Clerihew,1913,1875,"Detective, Mystery",novel,gb,75809,en,third,male,0,1,1,355,http://www.gutenberg.org/ebooks/2568,38,0
+cst68,mhg86,,the_american_diary_of_a_japanese_girl.txt,The American Diary of a Japanese Girl,Noguchi,Yone,1902,1875,Fiction,novel,us,47845,en,first,female,0,0,0,1981,https://www.gutenberg.org/ebooks/63256,27,0
+mhg86,ijg24,awi3,shirley.txt,Shirley,Bronte,Charlotte,1849,1816,Fiction,novel,gb,219307,en,third,female,0,0,1,559,http://www.gutenberg.org/ebooks/30486,33,0
+gmv34,,,behind_green_door.txt,Behind the Green Door,Mildred,Wirt,1959,1905,"Fiction, Mystery",novel,us,42627,en,third,female,0,1,0,104,http://www.gutenberg.org/ebooks/34592,54,0
+irf27,byw4,krh57,the_wendigo.txt,The Wendigo,Blackwood,Algernon,1910,1869,Horror,novella,gb,18778,en,third,male,1,0,0,1247,http://www.gutenberg.org/ebooks/10897,41,0
+asc334,,,the_middle_temple_murder.txt,The Middle Temple Murder,Fletcher,Joseph Smith,1919,1863,"Detective, Mystery",novel,gb,72041,en,third,male,0,1,0,262,http://www.gutenberg.org/ebooks/10373,56,0
+asc334,as2778,,the_elusive_pimpernel.txt,The Elusive Pimpernel,Orczy,Baroness Emmuska,1908,1865,"Fiction, Adventure",novel,gb,83310,en,third,female,0,0,1,170,http://www.gutenberg.org/ebooks/2785,43,0
+krh57,as2778,,the_tennant_of_wildfell_hall.txt,The Tennant of Wildfell Hall,Bronte,Anne,1848,1820,Domestic Fiction,novel,gb,166395,en,first,female,0,0,1,1176,http://www.gutenberg.org/ebooks/969,28,0
+as2778,,,plague_ship.txt,Plague Ship,Norton,Andre,1956,1912,"Science Fiction, Speculative fiction",novel,us,60020,en,third,female,0,0,0,210,https://www.gutenberg.org/ebooks/16921,44,1
+cjw322,,,the_red_house_mystery.txt,The Red House Mystery,Milne,A.A.,1922,1882,"Detective, Mystery",novel,gb,60393,en,third,male,0,1,0,813,http://www.gutenberg.org/ebooks/1872,40,0
+cjw322,,,unknown_to_history.txt,Unknown to History: A Story of the Captivity of Mary of Scotland,Yonge,Charlotte M.,1882,1823,"Biographical Fiction, Historical Fiction",novel,gb,167040,en,third,female,0,0,0,62,http://www.gutenberg.org/ebooks/4596,59,0
